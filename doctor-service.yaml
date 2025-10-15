@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:h2:~/Downloads/microservices-test/patient-service/database/patientsdb
+    url: jdbc:h2:~/Downloads/microservices-test/doctor-service/database/doctorsdb
     driverClassName: org.h2.Driver
     username: sa
     password:
